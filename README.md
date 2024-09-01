@@ -18,9 +18,9 @@ title: About
   </div>
 </div>
 
-asdflaj;ldsag \n
-sadf;lsdag \n
-asdgsdaf \n
+asdflaj;ldsag <br>
+sadf;lsdag <br>
+asdgsdaf <br>
 
 <body class="theme-base-0b">
   ...

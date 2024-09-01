@@ -1,41 +1,7 @@
 # Khalid Walid Freij, PhD
 ## Bioinformatician II, UAB School of Nursing (SON)
 
-/*
- *  __                  __
- * /\ \                /\ \
- * \ \ \___   __  __   \_\ \     __
- *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
- *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
- *    \ \_\ \_\/`____ \ \___,_\ \____\
- *     \/_/\/_/`/___/> \/__,_ /\/____/
- *                /\___/
- *                \/__/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/hyde.
- */
-
-/*
-https://github.com/poole/hyde/blob/master/public/css/hyde.css
-/*
-
-/*
- * Contents
- *
- * Global resets
- * Sidebar
- * Container
- * Reverse layout
- * Themes
- */
-
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
+#https://github.com/poole/hyde/blob/master/public/css/hyde.css
 
 html {
   font-family: Arial;

@@ -1,9 +1,3 @@
-# kfreij95.github.io
----
-layout: page
-title: About
----
-
 <!-- Default sidebar -->
 <div class="sidebar">
   <div class="container sidebar-sticky">
@@ -25,5 +19,10 @@ asdgsdaf <br>
 <body class="theme-base-0b">
   ...
 </body>
+
+# Pain Equity Lab
+
+
+
 
 

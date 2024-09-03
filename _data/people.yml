@@ -1,0 +1,44 @@
+casey:
+  name: Edwin Aroke
+  department:  Department of Acute, Chronic & Continuing Care, School of Nursing, UAB
+  email: earoke@uab.edu
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0002-8355-0870
+    - icon: fa-brands fa-googlescholar
+      link: https://scholar.google.com/citations?user=iHrkTv8AAAAJ&hl=en
+    - icon: fa-brands fa-linkedin
+      link: https://www.linkedin.com/in/edwin-aroke-phd-crna/
+
+khalid:
+  name: Khalid Freij
+  department: Department of Acute, Chronic & Continuing Care, School of Nursing, UAB
+  email: kfreij95@uab.edu
+  image: Freij_Khalid.jpg
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0009-0001-1795-2927
+    - icon: fa-brands fa-github
+      link: https://github.com/kfreij95
+    - icon: fa-brands fa-googlescholar
+      link: https://scholar.google.com/citations?user=3LR0DEoAAAAJ&hl=en
+    - icon: fa-brands fa-linkedin
+      link: https://www.linkedin.com/in/khalid-freij-74287181/
+
+kiari:
+  name: Kiari Kinnie
+
+tonya:
+  name: Tonya Stoudmire
+
+fiona:
+  name: Fiona Agbor
+
+amanda:
+  name: Amanda Armond
+
+domoyeri:
+  name: Domoyeri Philemon
+
+jayda:
+  name: Jayda James

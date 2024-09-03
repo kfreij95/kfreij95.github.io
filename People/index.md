@@ -20,6 +20,10 @@ title: "Lab Members"
 
 {% include person.html name='fiona' %}
 
+{% include person.html name='amanda' %}
+
+{% include person.html name='domoyeri' %}
+
 ## Undergraduate Students
 
-{% include person.html name='jay' %}
+{% include person.html name='jayda' %}

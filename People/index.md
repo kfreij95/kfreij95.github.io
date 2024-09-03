@@ -8,7 +8,7 @@ title: "Lab Members"
 
 {% include person.html name='edwin' %}
 
-## Graduate Students
+## Research Staff
 
 {% include person.html name='khalid' %}
 

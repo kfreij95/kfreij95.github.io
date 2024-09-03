@@ -4,7 +4,7 @@ title: "Lab Members"
 
 ## Principle Investigator
 
-![image](/People/edwin_aroke.jpg)
+![image](/People/Aroke_Edwin.jpg)
 
 {% include person.html name='casey' %}
 
